@@ -1,0 +1,51 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"constructors.sol": "constructor_example"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"constructors.sol": {
+			"keccak256": "0xff2b6f959f8f904a2a58cd75c06b49934596e6e7099bcf9a6366bfb267ccef9b",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://2ad332ae994ad0890a9d02919548711b32928eac1eab7c84b1431a379c7eeb01",
+				"dweb:/ipfs/QmTmBq6pL3UDHfXk6kDfX2N1QguhjbaxH6G59GFLqKEnqz"
+			]
+		}
+	},
+	"version": 1
+}
